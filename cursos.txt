@@ -1,5 +1,0 @@
-Curso de Logistica;
-Curso de Programação Aplicativos;
-Curso de Desenvolvimento de software;
-Curso de eletrônica;
-Curso de IoT;
